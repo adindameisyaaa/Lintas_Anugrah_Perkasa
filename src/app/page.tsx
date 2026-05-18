@@ -11,17 +11,18 @@ export default function Home() {
 
   const services = [
     {
-      title: t("services.gps.title"),
-      description: t("services.gps.subtitle"),
-      icon: Navigation,
-      href: "/services/gps-tracker",
-    },
-    {
       title: t("services.trucking.title"),
       description: t("services.trucking.subtitle"),
       icon: Truck,
       href: "/services/trucking",
     },
+    {
+      title: t("services.gps.title"),
+      description: t("services.gps.subtitle"),
+      icon: Navigation,
+      href: "/services/gps-tracker",
+    },
+    
   ];
 
   const features = [
