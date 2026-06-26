@@ -11,6 +11,11 @@ export default function Footer() {
       <div className="container mx-auto px-4">
         <div className="grid grid-cols-1 md:grid-cols-4 gap-12">
           <div className="col-span-1 md:col-span-2">
+            <img 
+              src="/gallery/logo.png" 
+              alt="PT. Lintas Anugrah Perkasa" 
+              className="h-12 md:h-16 w-auto object-contain mb-6" 
+            />
             <h3 className="text-2xl font-bold mb-6 text-gray-900 dark:text-foreground">
               PT. Lintas Anugrah Perkasa
             </h3>
@@ -37,7 +42,7 @@ export default function Footer() {
               <li className="flex items-start">
                 <span>Jl. Kesatriaan Cilincing, Jakarta Utara, Indonesia</span>
               </li>
-              <li>+62 812 9182 6692</li>
+              <li>+62 811 1012 0863</li>
               <li>lintasanugrahperkasa88@gmail.com</li>
             </ul>
           </div>

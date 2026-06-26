@@ -6,6 +6,9 @@ import GalleryCarousel from "@/components/GalleryCarousel";
 import { Navigation, Shield, BarChart3, Bell, Smartphone, Map } from "lucide-react";
 import { useLanguage } from "@/context/LanguageContext";
 
+// WhatsApp links
+const WHATSAPP_GPS = "https://wa.me/6287885549220?text=Hello%20PT%20LAPS,%20I%20would%20like%20to%20inquire%20about%20GPS%20Tracking%20services.";
+
 export default function GPSTrackerPage() {
   const { t } = useLanguage();
 
@@ -98,7 +101,7 @@ export default function GPSTrackerPage() {
         title={t("services.gps.cta.title")}
         subtitle={t("services.gps.cta.subtitle")}
         buttonText={t("services.gps.cta.btn")}
-        buttonLink="/contact"
+        buttonLink={WHATSAPP_GPS}
       />
     </div>
   );

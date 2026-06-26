@@ -169,6 +169,52 @@ const translations = {
     "coming.desc": "We're working hard to bring you more comprehensive logistics and security solutions. Stay tuned for our upcoming warehouse and distribution services.",
     "coming.btn.back": "Back to Services",
     "coming.btn.notify": "Notify Me",
+
+    // Trailer Fleet Section
+    "fleet.title": "Our Trailer Fleet",
+    "fleet.subtitle": "PT LAPS provides transportation services using various trailer configurations for industrial and heavy cargo transportation.",
+    "fleet.20ft.title": "20 Feet Trailer",
+    "fleet.20ft.desc": "Suitable for:",
+    "fleet.20ft.1": "Steel products",
+    "fleet.20ft.2": "Construction materials",
+    "fleet.20ft.3": "Industrial equipment",
+    "fleet.20ft.4": "Medium-sized cargo",
+    "fleet.40ft.title": "40 Feet Trailer",
+    "fleet.40ft.desc": "Suitable for:",
+    "fleet.40ft.1": "Long steel products",
+    "fleet.40ft.2": "Heavy industrial cargo",
+    "fleet.40ft.3": "Large construction materials",
+    "fleet.40ft.4": "Project logistics",
+    "fleet.why.title": "Why Choose Our Trailers?",
+    "fleet.why.1": "Capacity up to 60 tons",
+    "fleet.why.1.desc": "Heavy cargo ready",
+    "fleet.why.2": "Cargo length up to 12 meters",
+    "fleet.why.2.desc": "Long items supported",
+    "fleet.why.3": "Experienced drivers",
+    "fleet.why.3.desc": "Professional team",
+    "fleet.why.4": "Reliable scheduling",
+    "fleet.why.4.desc": "On-time delivery",
+
+    // FAQ Section
+    "faq.title": "Frequently Asked Questions",
+    "faq.q1": "How much does trailer rental or transportation cost?",
+    "faq.a1": "The cost depends on the route, cargo type, and trailer unit required. Simply send your cargo details and destination through WhatsApp and our team will provide a quotation.",
+    "faq.q2": "What types of cargo can be transported?",
+    "faq.a2": "We specialize in steel and metal transportation, including rebar, steel plates, coils, pipes, H-beams, and wire mesh. We also handle industrial cargo such as cement, ceramic products, machinery, and construction materials, with capacities up to 60 tons and cargo lengths up to 12 meters.",
+    "faq.q3": "Which areas do you serve?",
+    "faq.a3": "We provide pickup and delivery services within Jabodetabek, Central Java, Lampung, and Palembang. Areas outside these regions are currently not available.",
+    "faq.q4": "Can you provide official invoices for companies?",
+    "faq.a4": "Yes. PT LAPS is a registered company and can provide official invoices and transportation documents for corporate administrative requirements.",
+    "faq.q5": "How quickly can a trailer be arranged?",
+    "faq.a5": "Trailer availability changes daily. Contact our team via WhatsApp to check the nearest available schedule. We will do our best to accommodate your transportation needs.",
+
+    // Fleet Gallery
+    "fleet.gallery.title": "Fleet Gallery",
+    "fleet.gallery.subtitle": "Our trailer fleet is ready to support steel transportation, construction materials, and industrial cargo with professional operational standards.",
+
+    // Our Clients
+    "clients.title": "Our Clients",
+    "clients.subtitle": "Trusted by various companies and industrial businesses for transportation and logistics needs.",
   },
   id: {
     // Navbar
@@ -328,6 +374,52 @@ const translations = {
     "coming.desc": "Kami sedang bekerja keras untuk menghadirkan solusi logistik dan keamanan yang lebih komprehensif. Nantikan layanan gudang dan distribusi kami yang akan datang.",
     "coming.btn.back": "Kembali ke Layanan",
     "coming.btn.notify": "Beritahu Saya",
+
+    // Trailer Fleet Section
+    "fleet.title": "Armada Trailer Kami",
+    "fleet.subtitle": "PT LAPS menyediakan layanan transportasi menggunakan berbagai konfigurasi trailer untuk pengangkutan barang industri dan berat.",
+    "fleet.20ft.title": "Trailer 20 Kaki",
+    "fleet.20ft.desc": "Cocok untuk:",
+    "fleet.20ft.1": "Produk baja",
+    "fleet.20ft.2": "Material konstruksi",
+    "fleet.20ft.3": "Peralatan industri",
+    "fleet.20ft.4": "Muatan berukuran sedang",
+    "fleet.40ft.title": "Trailer 40 Kaki",
+    "fleet.40ft.desc": "Cocok untuk:",
+    "fleet.40ft.1": "Produk baja panjang",
+    "fleet.40ft.2": "Muatan industri berat",
+    "fleet.40ft.3": "Material konstruksi besar",
+    "fleet.40ft.4": "Logistik proyek",
+    "fleet.why.title": "Mengapa Memilih Trailer Kami?",
+    "fleet.why.1": "Kapasitas hingga 60 ton",
+    "fleet.why.1.desc": "Siap untuk muatan berat",
+    "fleet.why.2": "Panjang muatan hingga 12 meter",
+    "fleet.why.2.desc": "Dukungan untuk barang panjang",
+    "fleet.why.3": "Sopir berpengalaman",
+    "fleet.why.3.desc": "Tim profesional",
+    "fleet.why.4": "Jadwal yang andal",
+    "fleet.why.4.desc": "Pengiriman tepat waktu",
+
+    // FAQ Section
+    "faq.title": "Pertanyaan yang Sering Diajukan",
+    "faq.q1": "Berapa biaya sewa atau transportasi trailer?",
+    "faq.a1": "Biaya tergantung pada rute, jenis muatan, dan unit trailer yang dibutuhkan. Kirimkan detail muatan dan tujuan Anda melalui WhatsApp dan tim kami akan memberikan penawaran.",
+    "faq.q2": "Jenis muatan apa saja yang bisa diangkut?",
+    "faq.a2": "Kami spesialis dalam pengangkutan baja dan logam, termasuk besi beton, pelat baja, coil, pipa, H-beam, dan jaring kawat. Kami juga menangani muatan industri seperti semen, produk keramik, mesin, dan material konstruksi, dengan kapasitas hingga 60 ton dan panjang muatan hingga 12 meter.",
+    "faq.q3": "Area mana saja yang kami layani?",
+    "faq.a3": "Kami menyediakan layanan penjemputan dan pengiriman di Jabodetabek, Jawa Tengah, Lampung, dan Palembang. Area di luar wilayah tersebut saat ini belum tersedia.",
+    "faq.q4": "Bisakah Anda menyediakan faktur resmi untuk perusahaan?",
+    "faq.a4": "Ya. PT LAPS adalah perusahaan yang terdaftar dan dapat menyediakan faktur resmi serta dokumen transportasi untuk kebutuhan administrasi perusahaan.",
+    "faq.q5": "Seberapa cepat trailer bisa diatur?",
+    "faq.a5": "Ketersediaan trailer berubah setiap hari. Hubungi tim kami via WhatsApp untuk memeriksa jadwal terdekat yang tersedia. Kami akan melakukan yang terbaik untuk menyesuaikan kebutuhan transportasi Anda.",
+
+    // Fleet Gallery
+    "fleet.gallery.title": "Galeri Armada",
+    "fleet.gallery.subtitle": "Armada trailer kami siap mendukung pengangkutan baja, material konstruksi, dan muatan industri dengan standar operasional yang profesional.",
+
+    // Our Clients
+    "clients.title": "Klien Kami",
+    "clients.subtitle": "Dipercaya oleh berbagai perusahaan dan pelaku industri untuk kebutuhan transportasi dan logistik.",
   }
 };
 

@@ -42,7 +42,7 @@ export default function Navbar() {
       <div className="container mx-auto px-4 flex justify-between items-center">
         <Link href="/" className="flex items-center">
           <img 
-            src="/app/gallery/logo.png" 
+            src="/gallery/logo.png" 
             alt="PT. Lintas Anugrah Perkasa" 
             className="h-10 md:h-12 w-auto object-contain" 
             

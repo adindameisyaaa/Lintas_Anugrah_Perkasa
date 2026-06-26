@@ -1,12 +1,15 @@
 import type { Metadata } from "next";
-import { Inter } from "next/font/google";
+import { Poppins } from "next/font/google";
 import "./globals.css";
 import Navbar from "@/components/Navbar";
 import Footer from "@/components/Footer";
 import { LanguageProvider } from "@/context/LanguageContext";
 import { ThemeProvider } from "@/context/ThemeContext";
 
-const inter = Inter({ subsets: ["latin"] });
+const poppins = Poppins({ 
+  weight: ["300", "400", "500", "600", "700", "800"],
+  subsets: ["latin"] 
+});
 
 export const metadata: Metadata = {
   title: "PT. Lintas Anugrah Perkasa",
@@ -40,7 +43,7 @@ export default function RootLayout({
           }}
         />
       </head>
-      <body className={`${inter.className} bg-white dark:bg-background text-foreground min-h-screen flex flex-col transition-colors duration-300`}>
+      <body className={`${poppins.className} bg-white dark:bg-background text-foreground min-h-screen flex flex-col transition-colors duration-300`}>
         <ThemeProvider>
           <LanguageProvider>
             <Navbar />
